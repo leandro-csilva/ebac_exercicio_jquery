@@ -1,0 +1,32 @@
+* {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      font-family: 'Roboto', sans-serif;
+}
+
+header {
+      padding: 16px 0;
+      display: flex;
+      justify-content: center;
+}
+
+form {
+      padding: 24px 0;
+      text-align: center;
+}
+
+input, button {
+      padding: 8px;
+}
+
+ul {
+      text-align: center;
+}
+
+
+ul li {
+      cursor: pointer;
+      list-style-type: disc;
+      list-style-position: inside;
+}
